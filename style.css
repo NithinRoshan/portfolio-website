@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Young Serif', serif;
+}
+.container{
+    
+    padding: 60px;
+}
+.section-1{
+    color: white;
+    background-color: black;
+    padding: 30px;
+    border: radius 10px;
+    
+}
+.section-1__contact{
+    background-color: black;
+    color:red ;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid red;
+    border-radius: 10px;
+    margin-top: 40px;
+    
+}
+.section-1__contact:hover{
+    background-color:white ;
+    color: black;
+
+}
+.section-2,.section-3,.section-4,.section-5{
+    margin-top: 20px;
+    
+}
+.section-2__desc,.section-3__desc,.section-4__desc,.section-5__desc{
+    margin-top: 10px;
+    
+}
+.section-5{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.section-5__title a{
+    color: skyblue;
+}
+.section-3 li,.section-4 li{
+list-style: none;
+}
+.section-3{
+    background-color: lightpink;
+    color: black;
+    height: 180px;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.section-4{
+    background-color:coral;
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.contactform__input1{
+    margin-top: 10px;
+    
+}
+
+.contactform__textarea{
+    margin-top: 10px;
+}
+.contactform__submit{
+    color: black;
+    background-color: green;
+    padding: 5px;
+    border-radius: 5px;
+}
+.contactform{
+ background-color: black;
+}
+.contactform__inputname{
+    display: inline-block;
+    margin-left: 500px;
+}
+.contactform__inputemail{
+    
+margin-top: 20px;
+    display: inline-block;
+    margin-left: 500px;
+}
+.contactform__inpsageutmes{
+    margin-top: 14px;
+    display: inline-block;
+    margin-left: 500px;
+}
+.contactform{
+    display: inline-block;
+    background-color: aquamarine;
+}
+.container1{
+    padding: 80px;
+    height: 900px;
+    background-color: skyblue;
+}
+.section-6{
+    margin-top: 40px;
+    padding: 50px;
+}
+.section-6 a{
+    color: darkblue;
+}
